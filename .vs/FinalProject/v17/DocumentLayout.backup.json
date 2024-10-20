@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|d:\\personal\\school\\hishtalmoot\\hisht2024-maui\\finalproject\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|d:\\personal\\school\\hishtalmoot\\hisht2024-maui\\finalproject\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|solutionrelative:viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|d:\\personal\\school\\hishtalmoot\\hisht2024-maui\\finalproject\\views\\auth\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|solutionrelative:views\\auth\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|d:\\personal\\school\\hishtalmoot\\hisht2024-maui\\finalproject\\views\\auth\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|solutionrelative:views\\auth\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|d:\\personal\\school\\hishtalmoot\\hisht2024-maui\\finalproject\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|d:\\personal\\school\\hishtalmoot\\hisht2024-maui\\finalproject\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|d:\\personal\\school\\hishtalmoot\\hisht2024-maui\\finalproject\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|d:\\personal\\school\\hishtalmoot\\hisht2024-maui\\finalproject\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|d:\\personal\\school\\hishtalmoot\\hisht2024-maui\\finalproject\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|d:\\personal\\school\\hishtalmoot\\hisht2024-maui\\finalproject\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|solutionrelative:services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|d:\\personal\\school\\hishtalmoot\\hisht2024-maui\\finalproject\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|solutionrelative:viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|d:\\personal\\school\\hishtalmoot\\hisht2024-maui\\finalproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|d:\\personal\\school\\hishtalmoot\\hisht2024-maui\\finalproject\\helpers\\stringnotemptytovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|solutionrelative:helpers\\stringnotemptytovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|d:\\personal\\school\\hishtalmoot\\hisht2024-maui\\finalproject\\views\\auth\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|solutionrelative:views\\auth\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|d:\\personal\\school\\hishtalmoot\\hisht2024-maui\\finalproject\\views\\auth\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|solutionrelative:views\\auth\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|d:\\personal\\school\\hishtalmoot\\hisht2024-maui\\finalproject\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|d:\\personal\\school\\hishtalmoot\\hisht2024-maui\\finalproject\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|solutionrelative:resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|d:\\personal\\school\\hishtalmoot\\hisht2024-maui\\finalproject\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDAF7BD0-2F70-4BAA-B356-069BFB00398D}|FinalProject.csproj|solutionrelative:resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-08T14:24:27.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAswKkAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:23:50.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:18:49.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAmwC8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:23:33.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:24:29.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:24:35.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\Views\\Auth\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "Views\\Auth\\LoginPage.xaml",
+              "ToolTip": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\Views\\Auth\\LoginPage.xaml",
+              "RelativeToolTip": "Views\\Auth\\LoginPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-08T14:21:30.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistrationPage.xaml",
+              "DocumentMoniker": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\Views\\Auth\\RegistrationPage.xaml",
+              "RelativeDocumentMoniker": "Views\\Auth\\RegistrationPage.xaml",
+              "ToolTip": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\Views\\Auth\\RegistrationPage.xaml",
+              "RelativeToolTip": "Views\\Auth\\RegistrationPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-08T14:22:00.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "Services\\UserServices.cs",
+              "ToolTip": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\Services\\UserServices.cs",
+              "RelativeToolTip": "Services\\UserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:24:16.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\ViewModels\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ViewModelBase.cs",
+              "ToolTip": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\ViewModels\\ViewModelBase.cs",
+              "RelativeToolTip": "ViewModels\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:23:55.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StringNotEmptyToVisibilityConverter.cs",
+              "DocumentMoniker": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\Helpers\\StringNotEmptyToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "Helpers\\StringNotEmptyToVisibilityConverter.cs",
+              "ToolTip": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\Helpers\\StringNotEmptyToVisibilityConverter.cs",
+              "RelativeToolTip": "Helpers\\StringNotEmptyToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:23:04.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\Views\\Auth\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\Auth\\LoginPage.xaml.cs",
+              "ToolTip": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\Views\\Auth\\LoginPage.xaml.cs",
+              "RelativeToolTip": "Views\\Auth\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:22:17.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBAAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:17:55.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegistrationPage.xaml.cs",
+              "DocumentMoniker": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\Views\\Auth\\RegistrationPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\Auth\\RegistrationPage.xaml.cs",
+              "ToolTip": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\Views\\Auth\\RegistrationPage.xaml.cs",
+              "RelativeToolTip": "Views\\Auth\\RegistrationPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:22:30.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:20:12.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-08T14:18:46.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "Resources\\Styles\\Colors.xaml",
+              "ToolTip": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "Resources\\Styles\\Colors.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-08T14:13:03.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "Resources\\Styles\\Styles.xaml",
+              "ToolTip": "D:\\personal\\school\\Hishtalmoot\\Hisht2024-MAUI\\FinalProject\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "Resources\\Styles\\Styles.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-08T14:12:51.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="FinalProject.Views.Auth.LoginPage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:viewmodels="clr-namespace:FinalProject.ViewModels;assembly=FinalProject"
+    Title="Login"
+    x:DataType="viewmodels:LoginViewModel">
+    <StackLayout Padding="30">
+        <!--  Username Entry  -->
+        <Entry
+            Keyboard="Default"
+            Placeholder="Username"
+            Text="{Binding Username}" />
+
+        <!--  Password Entry  -->
+        <Entry
+            IsPassword="True"
+            Placeholder="Password"
+            Text="{Binding Password}" />
+
+        <!--  Login Button  -->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <!--  For Login Button  -->
+                <ColumnDefinition Width="*" />
+                <!--  To fill remaining space  -->
+            </Grid.ColumnDefinitions>
+
+            <!--  Login Button  -->
+            <Button
+                Grid.Column="0"
+                Command="{Binding LoginCommand}"
+                Text="Login" />
+
+            <!--  Register Label  -->
+            <Label
+                Grid.Column="1"
+                HorizontalOptions="End"
+                Text="No account? Register"
+                TextColor="Blue"
+                VerticalOptions="Center">
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped" />
+                </Label.GestureRecognizers>
+            </Label>
+        </Grid>
+    </StackLayout>
+</ContentPage>

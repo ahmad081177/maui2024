@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="FinalProject.Views.Auth.RegistrationPage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:FinalProject.Helpers"
+    xmlns:viewmodels="clr-namespace:FinalProject.ViewModels;assembly=FinalProject"
+    Title="Register"
+    x:DataType="viewmodels:RegisterViewModel">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <local:StringNotEmptyToVisibilityConverter x:Key="StringNotEmptyToVisibilityConverter" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ScrollView>
+        <Grid
+            Padding="20"
+            ColumnSpacing="10"
+            RowSpacing="10">
+            <Grid.ColumnDefinitions>
+                <!--  Label column takes 30% of the width  -->
+                <ColumnDefinition Width="0.3*" />
+                <!--  Control column takes 70% of the width  -->
+                <ColumnDefinition Width="0.7*" />
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <!--  Row definitions for fields  -->
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <!--  Row definitions for error messages  -->
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <!--  First Name  -->
+            <Label
+                Grid.Row="0"
+                Grid.Column="0"
+                Text="FirstName"
+                VerticalOptions="Center" />
+            <Entry
+                Grid.Row="0"
+                Grid.Column="1"
+                Placeholder="Enter First Name"
+                Text="{Binding FirstName}" />
+            <Label
+                Grid.Row="1"
+                Grid.ColumnSpan="2"
+                IsVisible="{Binding FirstNameErrorLable, Converter={StaticResource StringToBoolConverter}}"
+                Text="{Binding FirstNameErrorLable}"
+                TextColor="Red" />
+
+            <!--  Last Name  -->
+            <Label
+                Grid.Row="2"
+                Grid.Column="0"
+                Text="LastName"
+                VerticalOptions="Center" />
+            <Entry
+                Grid.Row="2"
+                Grid.Column="1"
+                Placeholder="Enter Last Name"
+                Text="{Binding LastName}" />
+            <Label
+                Grid.Row="3"
+                Grid.ColumnSpan="2"
+                IsVisible="{Binding LastNameErrorLable, Converter={StaticResource StringToBoolConverter}}"
+                Text="{Binding LastNameErrorLable}"
+                TextColor="Red" />
+
+            <!--  Username  -->
+            <Label
+                Grid.Row="4"
+                Grid.Column="0"
+                Text="Username"
+                VerticalOptions="Center" />
+            <Entry
+                Grid.Row="4"
+                Grid.Column="1"
+                Placeholder="Enter Username"
+                Text="{Binding Username}" />
+            <Label
+                Grid.Row="5"
+                Grid.ColumnSpan="2"
+                IsVisible="{Binding UsernameErrorLabel, Converter={StaticResource StringToBoolConverter}}"
+                Text="{Binding UsernameErrorLabel}"
+                TextColor="Red" />
+
+            <!--  Email  -->
+            <Label
+                Grid.Row="6"
+                Grid.Column="0"
+                Text="Email"
+                VerticalOptions="Center" />
+            <Entry
+                Grid.Row="6"
+                Grid.Column="1"
+                Keyboard="Email"
+                Placeholder="Enter Email"
+                Text="{Binding Email}" />
+            <Label
+                Grid.Row="7"
+                Grid.ColumnSpan="2"
+                IsVisible="{Binding EmailErrorLable, Converter={StaticResource StringToBoolConverter}}"
+                Text="{Binding EmailErrorLable}"
+                TextColor="Red" />
+
+            <!--  Password  -->
+            <Label
+                Grid.Row="8"
+                Grid.Column="0"
+                Text="Password"
+                VerticalOptions="Center" />
+            <Entry
+                Grid.Row="8"
+                Grid.Column="1"
+                IsPassword="True"
+                Placeholder="Enter Password"
+                Text="{Binding Password}" />
+            <Label
+                Grid.Row="9"
+                Grid.ColumnSpan="2"
+                IsVisible="{Binding PasswordErrorLable, Converter={StaticResource StringToBoolConverter}}"
+                Text="{Binding PasswordErrorLable}"
+                TextColor="Red" />
+
+            <!--  Phone  -->
+            <Label
+                Grid.Row="10"
+                Grid.Column="0"
+                Text="Phone"
+                VerticalOptions="Center" />
+            <Entry
+                Grid.Row="10"
+                Grid.Column="1"
+                Placeholder="Enter Phone"
+                Text="{Binding Phone}" />
+            <Label
+                Grid.Row="11"
+                Grid.ColumnSpan="2"
+                IsVisible="{Binding PhoneErrorLable, Converter={StaticResource StringToBoolConverter}}"
+                Text="{Binding PhoneErrorLable}"
+                TextColor="Red" />
+
+            <!--  Admin  -->
+            <CheckBox
+                Grid.Row="12"
+                Grid.Column="1"
+                IsChecked="{Binding IsAdmin}" />
+            <Label
+                Grid.Row="12"
+                Grid.Column="0"
+                Text="Admin"
+                VerticalOptions="Center" />
+            <!--  Birthdate  -->
+            <Label
+                Grid.Row="13"
+                Grid.Column="0"
+                Text="Birthdate"
+                VerticalOptions="Center" />
+            <DatePicker
+                Grid.Row="13"
+                Grid.Column="1"
+                Date="{Binding Birthdate}" />
+            <!--<Label
+                Grid.Row="11"
+                Grid.ColumnSpan="2"
+                IsVisible="{Binding BirthdateErrorLable, Converter={StaticResource StringToBoolConverter}}"
+                Text="{Binding BirthdateErrorLable}"
+                TextColor="Red" />-->
+
+            <!--  Age  -->
+            <Label
+                Grid.Row="14"
+                Grid.Column="0"
+                Text="Calculated Age:"
+                VerticalOptions="Center" />
+            <Label
+                Grid.Row="14"
+                Grid.Column="1"
+                Text="{Binding CalculatedAge}"
+                TextColor="Green" />
+
+            <!--  Register Button  -->
+            <Button
+                Grid.Row="15"
+                Grid.Column="1"
+                Command="{Binding RegisterCommand}"
+                IsEnabled="{Binding CanRegister}"
+                Text="Register" />
+            <Label
+                Grid.Row="15"
+                Grid.Column="0"
+                Text="Login"
+                TextColor="Blue"
+                VerticalOptions="Center">
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped" />
+                </Label.GestureRecognizers>
+            </Label>
+        </Grid>
+    </ScrollView>
+</ContentPage>
